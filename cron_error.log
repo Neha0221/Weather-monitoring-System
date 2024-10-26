@@ -1,0 +1,19 @@
+2024-10-22T11:53:01.280Z - Error: data is not defined
+2024-10-22T12:38:00.713Z - Error: Cannot read properties of undefined (reading 'main')
+2024-10-22T12:39:01.453Z - Error: Cannot read properties of undefined (reading 'main')
+2024-10-22T12:40:01.686Z - Error: Cannot read properties of undefined (reading 'main')
+2024-10-22T15:25:00.845Z - Error: Cannot read properties of undefined (reading 'city')
+2024-10-22T15:26:00.928Z - Error: Cannot read properties of undefined (reading 'city')
+2024-10-22T15:27:00.828Z - Error: Cannot read properties of undefined (reading 'city')
+2024-10-22T15:28:00.937Z - Error: Cannot read properties of undefined (reading 'city')
+2024-10-22T15:29:00.062Z - Error: Cannot read properties of undefined (reading 'city')
+2024-10-22T15:30:00.833Z - Error: Cannot read properties of undefined (reading 'city')
+2024-10-22T15:31:00.956Z - Error: Cannot read properties of undefined (reading 'city')
+2024-10-22T15:32:00.035Z - Error: Cannot read properties of undefined (reading 'city')
+2024-10-22T15:40:14.056Z - Error: Cannot read properties of undefined (reading 'main')
+2024-10-22T15:41:00.808Z - Error: Cannot read properties of undefined (reading 'main')
+2024-10-22T15:57:01.330Z - Error: Assignment to constant variable.
+2024-10-22T16:02:08.640Z - Error: kelvinToCelsius is not a function
+2024-10-22T16:03:59.781Z - Error: kelvinToCelsius is not a function
+2024-10-22T16:05:18.943Z - Error: Assignment to constant variable.
+2024-10-22T16:06:17.281Z - Error: Assignment to constant variable.

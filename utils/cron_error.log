@@ -1,0 +1,23 @@
+2024-10-26T08:52:06.484Z - Error: Cannot read properties of undefined (reading 'main')
+2024-10-26T08:56:01.467Z - Error: weather_manager.add_stats is not a function
+2024-10-26T08:57:01.256Z - Error: weather_manager.add_stats is not a function
+2024-10-26T08:58:01.576Z - Error: weather_manager.add_stats is not a function
+2024-10-26T09:00:02.525Z - Error: weather_manager.add_stats is not a function
+2024-10-26T09:25:06.231Z - Error: weather_manager.add_stats is not a function
+2024-10-26T09:26:01.209Z - Error: weather_manager.add_stats is not a function
+2024-10-26T09:27:01.208Z - Error: weather_manager.add_stats is not a function
+2024-10-26T09:28:01.449Z - Error: TemperatureType is not defined
+2024-10-26T09:29:01.575Z - Error: TemperatureType is not defined
+2024-10-26T09:30:00.951Z - Error: TemperatureType is not defined
+2024-10-26T09:32:01.081Z - Error: getDailySummary is not defined
+2024-10-26T09:35:34.130Z - Error: getDailySummary is not defined
+2024-10-26T09:39:48.745Z - Error: Cannot read properties of undefined (reading 'temprature')
+2024-10-26T09:40:11.510Z - Error: Cannot read properties of undefined (reading 'temprature')
+2024-10-26T09:43:21.789Z - Error: Cannot read properties of undefined (reading 'temprature')
+2024-10-26T09:44:03.055Z - Error: Cannot read properties of undefined (reading 'temprature')
+2024-10-26T10:18:01.472Z - Error: TemperatureType is not defined
+2024-10-26T10:20:01.719Z - Error: Cannot read properties of undefined (reading 'temperature')
+2024-10-26T10:22:56.496Z - Error: Cannot read properties of undefined (reading 'temperature')
+2024-10-26T10:24:45.656Z - Error: Cannot read properties of undefined (reading 'temperature')
+2024-10-26T10:31:09.331Z - Error: Cannot read properties of undefined (reading 'temperature')
+2024-10-26T10:45:11.628Z - Error: Unsupported operator: ===
